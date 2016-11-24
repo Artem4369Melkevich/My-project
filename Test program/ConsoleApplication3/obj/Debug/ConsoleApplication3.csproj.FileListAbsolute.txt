@@ -1,0 +1,12 @@
+c:\users\artem mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\artem mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\artem mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\artem mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\artem mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Artem Mel'kevich\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Artem Mel'kevich\Documents\Visual Studio 2015\Projects\Test program\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
